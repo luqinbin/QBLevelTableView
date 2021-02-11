@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 #import "QBLevelIndexPath.h"
-#import "EXTConcreteProtocol.h"
+#import <libextobjc/EXTConcreteProtocol.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
