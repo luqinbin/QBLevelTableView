@@ -1,0 +1,6 @@
+framework module Pods_QBLevelTableViewTests {
+  umbrella header "Pods-QBLevelTableViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
